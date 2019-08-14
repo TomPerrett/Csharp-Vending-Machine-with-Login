@@ -1,0 +1,50 @@
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\skillsstudents\ws257077\my documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3 - Copy\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\weston.ac.uk\home\SkillsStudents\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+\\svr-sc-file01\homes$\WS257077\My Documents\Visual Studio 2012\Projects\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.cache
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.CoreCompileInputs.cache
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\Uni copied work\Visual Studio\2012\Vending machine with login system, assignment 3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
